@@ -24,6 +24,7 @@ public class CallRestWebService {
 	public static final String endpoint = "http://ip-api.com/json";
 	//comment
 	// secend comment
+	//another comit
 	//public static final String endpoint = "https://httpbin.org/get";
 	public static void main(String[] args) {
 		HttpClient client = new DefaultHttpClient();
